@@ -1,19 +1,20 @@
 # Yandex.Praktikum-Project-3
 
-https://github.com/Verakhab/Yandex.Praktikum-Project-3
+Github: https://github.com/Verakhab/Yandex.Praktikum-Project-3
+
+gh-pages: https://verakhab.github.io/Yandex.Praktikum-Project-3/
+
+Project work #3
 
 Version: v.1.0.0
 
-Project work #3
-Путешествия по России
-
-
-
-
 ## Описание Проекта
-__Используемые технологии:__ HTML, BEM, flexbox, flow, CSS Pseudo-classes,
-CSS Pseudo-elements, form, font, iframe, animation, transformation, @keyframes,
-Figma, PixelPerfect.
+
+Одностраничный сайт - Путешествия по России
+
+__Используемые технологии:__ Gulp, PostCSS, HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes,
+CSS Pseudo-elements, fonts, iframe, animation, transformation, @keyframes,
+Figma, PerfectPixel.
 
 ## Локальный запуск
   ```
