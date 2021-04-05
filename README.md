@@ -12,8 +12,9 @@ Version: v.1.0.0
 
 Одностраничный сайт - Путешествия по России
 
-__Используемые технологии:__ Gulp, PostCSS, HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes,
-CSS Pseudo-elements, fonts, iframe, animation, transformation, @keyframes,
+В этой проектной работе я сверстал сайт по макету из Figma, в дополнение могу сказать что при выкладывании сайта в интернет на gh-pages я не использовал файл .nojekill для правильного чтения файлов сервисом gh-pages используемых в названиях нижнее подчеркивание при структурировании проекта по БЭМ сознательно, самостоятельно разобрался в GULP и с помощью него собрал CSS файлы проекта.
+
+__Используемые технологии:__ Gulp, PostCSS, HTML, BEM, flexbox, grid layout, positional, flow, CSS Pseudo-classes, CSS Pseudo-elements, fonts, iframe, animation, transformation, @keyframes,
 Figma, PerfectPixel.
 
 ## Локальный запуск
